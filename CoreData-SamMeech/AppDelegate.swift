@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  CoreData-SamMeech
-//
-//  Created by Brian McIntosh on 2/12/23.
-//
-
 import UIKit
 import CoreData
 
